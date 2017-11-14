@@ -1,6 +1,0 @@
-C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManagerTests\bin\Debug\airportManagerTests.dll
-C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManagerTests\bin\Debug\airportManagerTests.pdb
-C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManagerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManagerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManagerTests\obj\Debug\airportManagerTests.dll
-C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManagerTests\obj\Debug\airportManagerTests.pdb
