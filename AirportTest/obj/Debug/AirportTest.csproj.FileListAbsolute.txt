@@ -1,0 +1,11 @@
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\bin\Debug\AirportTest.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\bin\Debug\AirportTest.pdb
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\bin\Debug\airportManager.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\bin\Debug\airportManager.pdb
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\obj\Debug\AirportTest.csprojResolveAssemblyReference.cache
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\obj\Debug\AirportTest.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\AirportTest\obj\Debug\AirportTest.pdb
