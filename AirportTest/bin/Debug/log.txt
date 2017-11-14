@@ -48,3 +48,2271 @@ Log Entry : 23:08:53 יום שלישי 14 נובמבר 2017
   :
   :Plane 91fd4a58-3cca-42c6-a1ad-fae1fc696617 added to hangar 2d5b7cbc-a67c-4833-b3a6-600f949efb9f
 -------------------------------
+
+Log Entry : 23:50:25 יום שלישי 14 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: e087ab9e-a2d3-4be5-b66d-3b4ab00ea46acreated, hangar size:2
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 7ba1d454-3496-4cd6-9902-c9c5a865c1d3created, hangar size:1
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 80733f63-00b1-4006-bbf4-4f23aedf8ef0created, hangar size:4
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 944f30e5-ce78-4560-ab45-892d5655768ccreated, hangar size:8
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 8c359d22-f016-4944-a2bd-b09a862fc162created, hangar size:0
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: d9a1b9d4-c421-408c-8437-80214590d62dcreated, hangar size:2
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 2ae0781d-5473-4a47-97f8-0ff8e26410eccreated, hangar size:4
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 90418764-366f-4d85-abe9-be887425a63acreated, hangar size:1
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Plane a09b4d25-ec35-42a2-8559-ff8315eff009 added to hangar 7ba1d454-3496-4cd6-9902-c9c5a865c1d3
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: fe70e2a7-963d-45ac-aecc-e4c663275314created, hangar size:2
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 8ef23b5e-2107-4c15-8178-467779355322created, hangar size:1
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 2f8100bf-f13c-4bf0-bb95-9694504c0856created, hangar size:4
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 1dbb0ae4-0802-4b6e-a4f7-ad44bbb70edecreated, hangar size:8
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 8e7b05fc-ec77-488e-b766-bff5da4b0d80created, hangar size:0
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: cc897b0f-8847-4814-bc97-af6afaccb51ccreated, hangar size:2
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 4acb563f-b850-47f9-a299-f3050ef5e251created, hangar size:4
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 38c64724-ca56-44bf-9856-f04d6ae936c8created, hangar size:1
+-------------------------------
+
+Log Entry : 23:50:26 יום שלישי 14 נובמבר 2017
+  :
+  :Plane b12f08e5-5eac-480a-b15b-dbb95ff6460c added to hangar 8ef23b5e-2107-4c15-8178-467779355322
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 1bd219cb-aa7a-462f-9e15-7176727eb566created, hangar size:2
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 6314e079-e4fa-46cf-bd92-4b7ea007b40dcreated, hangar size:1
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: f0c6bf2b-9f53-44b2-9e29-f6e05f0bf222created, hangar size:4
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: b0badf04-643d-4517-8e3a-456bc75d7c02created, hangar size:8
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 56342e8a-c685-4eaf-9eea-096f62851c20created, hangar size:0
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 11e2d5f9-ada0-4b0f-abc2-bbf3ef7b3854created, hangar size:2
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 5a3af60d-d600-4635-80ee-25628c2a19a9created, hangar size:4
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: d8195d00-df5b-4c6e-9a97-bd1cc1b654becreated, hangar size:1
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Plane 0888b9c6-017f-47a1-8ae7-88976ab93506 added to hangar 6314e079-e4fa-46cf-bd92-4b7ea007b40d
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 41e66249-be64-4dbe-96e3-eae423d4e5b5created, hangar size:2
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: be25976b-a6cb-4d95-bdfc-83d1ae0a1885created, hangar size:1
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 466a9af7-a007-4e7f-81fb-2d82ead74e5ccreated, hangar size:4
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 23293a41-04e6-4828-ab45-78b74afe2817created, hangar size:8
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: f7880e84-a44d-47f5-bb77-ab0d82a8d833created, hangar size:0
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 1af0c96d-ef4b-4ef6-994c-61e59577f8d0created, hangar size:2
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 18c3931b-8412-4127-83b7-4f3aa96bbac5created, hangar size:4
+-------------------------------
+
+Log Entry : 23:54:00 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 4f0c5e1c-d00a-4e93-8642-d8879dd8989acreated, hangar size:1
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: a22483ee-df57-43b2-ae0e-52199e590afccreated, hangar size:2
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 9e20ff63-bb7a-465e-995d-f43632e7a1b8created, hangar size:1
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 51782fa5-a8b8-41fc-befe-42603aee3b8ecreated, hangar size:4
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 8defff95-9c67-4a04-a5d9-23ed0f1e0f21created, hangar size:8
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: b0510a36-fd60-4389-bbd8-31e76c3ea25acreated, hangar size:0
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 6131d128-0cd6-40d1-8c66-9effeaac063ecreated, hangar size:2
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: cd7ba9a7-9959-40b6-bb16-4e00607d2a50created, hangar size:4
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: c5704dc5-d103-4ff4-804e-48853c8e925bcreated, hangar size:1
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Plane a79b1140-1688-4927-b939-59d0ad79d76b added to hangar 9e20ff63-bb7a-465e-995d-f43632e7a1b8
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: b5386b23-6f9d-4d1e-a4b2-819c1694f94ccreated, hangar size:2
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 97ed9597-9fc3-4352-824d-e2af0c117dd1created, hangar size:1
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: d80819ef-3d8b-4006-befd-cb532600560bcreated, hangar size:4
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 09d809cf-bcee-411e-8bfc-cbe9fb7dbf6acreated, hangar size:8
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 8ec353dc-18fb-4784-9ae4-ecb6ecb25ca8created, hangar size:0
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 9448f4f1-9f70-46a3-a7e5-e662c1d7ced5created, hangar size:2
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 58f34b5f-84ea-4f0a-951e-a150cf479ed0created, hangar size:4
+-------------------------------
+
+Log Entry : 23:54:50 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 68b61a3b-ce1e-4ee7-bd9a-869e46cd3314created, hangar size:1
+-------------------------------
+
+Log Entry : 23:56:29 יום שלישי 14 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 23:56:29 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: fbc9e1f7-3dde-4908-b95a-79cc1b0cb24bcreated, hangar size:2
+-------------------------------
+
+Log Entry : 23:56:29 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: d8b70e96-589f-4a91-92ae-a084a67ebef1created, hangar size:1
+-------------------------------
+
+Log Entry : 23:56:29 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: b15700ef-89ee-475e-b4c6-d1e2d371c532created, hangar size:4
+-------------------------------
+
+Log Entry : 23:56:29 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: eff3437f-aa35-4d7a-8247-80317e5fdc6dcreated, hangar size:8
+-------------------------------
+
+Log Entry : 23:56:29 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: ed75151e-5ae0-40b0-b4e5-0291c61dd544created, hangar size:0
+-------------------------------
+
+Log Entry : 23:56:29 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: b4e7f8d5-3c19-4c5a-9b39-265becc6459ccreated, hangar size:2
+-------------------------------
+
+Log Entry : 23:56:29 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 4fe38556-3197-437f-a681-59e00233c991created, hangar size:4
+-------------------------------
+
+Log Entry : 23:56:29 יום שלישי 14 נובמבר 2017
+  :
+  :Hangar id: 004b104a-f97f-4a84-9fb2-97e92bdd13a2created, hangar size:1
+-------------------------------
+
+Log Entry : 00:00:31 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:00:31 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d9d3607a-d45d-4de9-a9a3-d93313384087created, hangar size:2
+-------------------------------
+
+Log Entry : 00:00:31 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 857d7845-0e79-4c6b-a413-eac8fa5af63fcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:00:31 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 7519928e-6d12-4a8f-a0fb-65d1ac92ee68created, hangar size:4
+-------------------------------
+
+Log Entry : 00:00:31 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 53a38727-1149-43e6-a84f-23319ea0f843created, hangar size:8
+-------------------------------
+
+Log Entry : 00:00:31 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 23b0957a-82bf-4223-8b33-3d2586be0f5bcreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:00:31 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a5966c4c-2ee6-46b3-a9f4-f1d39dea331acreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:00:31 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 67fa8724-9554-4ac5-991d-04a808ccfc66created, hangar size:4
+-------------------------------
+
+Log Entry : 00:00:31 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4a4dbb76-ee41-4816-acd3-d9530fef72b4created, hangar size:1
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d313c6b9-393e-4b31-a6c4-c95f4479397ecreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: aa2960dd-184a-411d-b895-cfe12f3ad922created, hangar size:1
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: bf1c9f45-a6be-43c3-b6f0-c348af5528d1created, hangar size:4
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 06c2844c-f65c-4d22-a4c3-d2eb3714a57fcreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b40c228c-ea3a-466b-9ac0-c70b9719d6a0created, hangar size:0
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 58d13011-faef-4684-8b5b-8938c0520161created, hangar size:2
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 0e286097-b7ef-49e5-b858-57fa3707820bcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 21529ee7-0046-4141-be54-19e3e4513b30created, hangar size:1
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Plane b84baea3-ea7e-4a34-a9f0-7cfbaf742ebb added to hangar aa2960dd-184a-411d-b895-cfe12f3ad922
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 14f4a68a-68a7-478c-b5d8-f89b96c5aa76created, hangar size:2
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: cf838b8e-eea3-4983-996e-148d7334b9b9created, hangar size:1
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 024b31bc-4934-4b72-b08d-4d137871cb50created, hangar size:4
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: bbd54651-357a-4690-b08a-0b94bc776cc8created, hangar size:8
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: e53694d2-c739-40ca-bf09-3f9ea5fe9e75created, hangar size:0
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 48a2a69a-04cd-4da6-861f-cf075b2c9e04created, hangar size:2
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 2ec66bc8-a5dd-4c0b-bce4-8153f15f1391created, hangar size:4
+-------------------------------
+
+Log Entry : 00:03:42 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 99d151c5-496d-4316-abb0-1ca95cae02fecreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:04:05 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:04:05 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 00b48b18-e3a0-494d-a36b-da3f484ec183created, hangar size:2
+-------------------------------
+
+Log Entry : 00:04:05 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 595eac0f-6d07-4d0e-9949-47fc6e27557fcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:04:05 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c065cb19-4506-499e-ab34-794d7e8dc939created, hangar size:4
+-------------------------------
+
+Log Entry : 00:04:05 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b2b1cd1d-483f-4fd3-854a-db9ddeaa23c0created, hangar size:8
+-------------------------------
+
+Log Entry : 00:04:05 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 01fedb27-e271-429c-a608-cf909617bbcbcreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:04:05 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 9b6cb1a9-dc78-405c-9d38-b3bb8240ebd9created, hangar size:2
+-------------------------------
+
+Log Entry : 00:04:05 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: df22bea6-9e5d-4a98-a8bd-41002de250bbcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:04:05 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b9229275-b7db-4b26-81fe-be15ff9fd033created, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 6b2774b9-ade9-4b75-b744-ff8b50e861d7created, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ab7cbcaa-0fb7-4030-9610-4bfa3a138934created, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d7956025-8f1f-461d-a0df-41030b202b8bcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: da6aadfd-1b37-4aec-9887-f55d5ff92301created, hangar size:8
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ec94526e-e466-4685-9fdd-25ccf76b0682created, hangar size:0
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: cd3c8a44-488b-405c-a214-1dcd2fbc4333created, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 21972aba-6749-467e-a2b0-4a3451d9234acreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1579ca5a-ff04-4579-9b62-c16d88444790created, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 99610307-78af-4bb0-8779-0ce1ff7048bb added to hangar ab7cbcaa-0fb7-4030-9610-4bfa3a138934
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 69d6dd7c-a500-4239-b2b9-99daa24480c4created, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4bdbbd33-514c-4c28-b3d3-669b9cb02900created, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c7441c16-f426-4a39-a9c0-8a4d7ab3d131created, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 0ead4c0e-6bf3-483b-8ffa-c1cb0c344ed3created, hangar size:8
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 19a09203-4c23-49f9-9810-1c495580d7b3created, hangar size:0
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 7d86d77e-dd17-494d-b7d8-b48c965bae4ccreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: aee99573-a836-498f-b426-80ae1aa89f60created, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 425d3c09-7c00-4321-86f2-c8f0bd6b50bdcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8171ae01-1945-4b16-9376-1edb3c7e0d18created, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d212164c-be8a-494f-92b8-2648cf4846cbcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 0c087f30-8672-4c55-9faf-19d1c852a550created, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 721f8955-787e-4da2-8034-4ac7992db726created, hangar size:8
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: e9023158-fd30-4131-932f-efcc8c1a983acreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 9de0144e-bdd0-4091-9d22-c830a2c5452fcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4de489fd-941f-4771-98e2-e910fd76e963created, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ca56e51d-c107-4523-a217-5600c61b5a3fcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 79460ce8-d5db-420b-b4f8-df6655934a97created, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8ab9d65b-c15d-435a-894f-36125d95b9aacreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 531c939a-864f-47dc-afc8-899a7d14039ecreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 7e1052f0-bede-43a3-a207-f1f0565cd084created, hangar size:8
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c7a0446d-c363-4ace-8030-657c2999cac3created, hangar size:0
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b388834f-79ac-419d-83fe-6e6dfa35fd46created, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 97d4bbe3-4e5e-4531-be18-d9f133850275created, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 302d6c6e-cd3e-43c5-93e3-ca8d50ee0e35created, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 33109989-e337-4f2d-9357-46aedcc87933created, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 742361da-6ae0-4f1a-804e-c92923ed0f38created, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 0b583cbc-0cfa-438d-b79f-794cd87774e4created, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 2c864405-8666-433a-b50e-cda044b5fd70created, hangar size:8
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fdab558c-36b5-46cd-82b4-32d1f9c10442created, hangar size:0
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 3d227bfb-814f-437b-b338-72ce0a436c6bcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: addd7873-bafd-439f-b1dc-911eabc43ac5created, hangar size:4
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a767a5ef-2802-4a86-9a53-451dcea76f43created, hangar size:1
+-------------------------------
+
+Log Entry : 00:14:59 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 10702612-90fc-424e-b550-24ff32dd0447 added to hangar 33109989-e337-4f2d-9357-46aedcc87933
+-------------------------------
+
+Log Entry : 00:18:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 73dea592-d1cd-4f18-8ce8-3792bac2e8a8created, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 2b360d3a-1c52-4231-9a47-bdf935f4f1cccreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 788855c7-8589-47f8-a304-a2ea7aafdfd5created, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 42012039-ec84-4bd9-aa8b-d8e6b7c8de57created, hangar size:8
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 45b96e0e-59b8-4c49-912a-0698b5d29f59created, hangar size:0
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 9023f338-f906-446e-818f-8371920e288ccreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8d1b6c37-d794-4ff4-927a-bd07b384db2ecreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d051d67a-12f2-4abd-9abd-31cccc939157created, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Plane bda57530-a6fc-4e1e-afbb-c9a9b92709ba added to hangar 2b360d3a-1c52-4231-9a47-bdf935f4f1cc
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 27f7e665-6497-4c73-885a-b714768d67a7created, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 661bc291-4f41-4162-95d8-5a1a0d4bf4e8created, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ee99458a-38a1-4276-bbd0-d51f09eb4872created, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: e4844c4a-894d-4ab7-93cc-052f96432f18created, hangar size:8
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a835f297-d424-40bb-9082-7ba0aff33c7ccreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1e870be2-99ff-45f0-995a-e7eb30caf2adcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 46223074-8cfe-4553-b12d-1247802017b4created, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 880656ec-3373-4dd2-9a49-1b5ce5ee9a29created, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at airportManager.Manager.getPlaneById(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 148
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d401b7ec-c2e0-4aba-9f7b-4fb699550e65created, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a6207fef-2296-4223-bb76-08d5f99d1628created, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 373d89c7-1570-4974-8144-77db3f308d27created, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 03745ef4-9923-4b0c-afd2-15e404a3e63acreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ef97445c-16fc-40fc-ab71-29e0fd4702c0created, hangar size:0
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: cc0070d6-f0c5-416a-ae24-3b349632e849created, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 5982fb17-59ab-4407-898c-d274cf983c55created, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 9b3352d1-a0f4-4887-a34f-53dcf56607eacreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 5b1e0aac-2705-409b-a96c-dc387a993a65created, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 6615f77c-026c-4695-b394-b87a95b312b8created, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b90d6138-2913-4f8a-979a-f7ebc6092ae6created, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 9eb11279-3728-4053-9960-0f32b6a696bdcreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 00a4a3cb-677d-44a4-929d-569badb997ddcreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d6b29738-497a-4f60-805d-b70e78954425created, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 34d95ceb-5e0d-432d-8cd2-a41ead5e488dcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1f5555a4-104d-4b64-b423-02fe9bc38ffbcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at airportManager.Manager.getPlaneById(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 148
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at airportManager.Manager.remove_plane(Plane p) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 99
+   at airportManager.Manager.removePlane(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 127
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 780b9e11-cf8e-40cb-837f-9431ab7f2289created, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fdbcd315-18db-4048-8861-a0bc891786bbcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4b85b814-db1c-4003-852a-63c5861ca239created, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: dd48244a-7987-46f0-bb1a-2dab26c44e4ecreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: cf8d6efc-49c1-43b6-b308-439580fa60bccreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 98bf4fc7-1a13-4757-9aa4-06d29dfd4c7acreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 478ddb16-7c91-4ad1-8dd1-c88479c3a114created, hangar size:4
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 86100876-0ca6-4040-b59c-b5f12b7d54bbcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :Plane c7025bc7-ed4d-47e3-b581-2a2c053c3a38 added to hangar 780b9e11-cf8e-40cb-837f-9431ab7f2289
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at airportManager.Manager.getPlaneById(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 148
+-------------------------------
+
+Log Entry : 00:19:00 יום רביעי 15 נובמבר 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at airportManager.Manager.remove_plane(Plane p) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 99
+   at airportManager.Manager.removePlane(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 127
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 30274eeb-8450-41c8-b9b8-7bdc381a7eefcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: e1d8cdba-ec54-4c93-bc47-525861a099dccreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1f058f6b-7534-4701-824c-11c6b482f79ecreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 189cf812-5098-48af-93a0-4514ae63d2eacreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 9788036f-57ab-4392-b7fb-3ca519bfe205created, hangar size:0
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 86bb46ab-054a-4e39-ab3c-abea2e239b7dcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 765b71a4-a8d2-453a-be89-765027bf5eb2created, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c2cd349d-9296-4a9d-b8f4-003fa4c0bf43created, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 142c8af3-2dbc-4adb-b884-800ea01f0d81 added to hangar e1d8cdba-ec54-4c93-bc47-525861a099dc
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 45c886b9-0ddc-416e-9676-b74d5808071ecreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8e249cf3-fb07-451c-871a-359aee63f3eccreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 68bf6c6f-a5ae-445a-ba1a-91d61b7be4a2created, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c7f0aaf1-9404-435e-b83e-bd885c85895bcreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 49256e67-c40a-413e-b036-9b49442e962dcreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 14870e86-8ca9-4ed5-8dc9-cf35d846726ccreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 41c16156-bd80-4c41-8e5c-74d7d41f797dcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 5c82e381-2bbb-4658-b8f8-4337a1c04daccreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at airportManager.Manager.getPlaneById(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 144
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 0372d45c-d78a-4f3e-9c73-f8db1998b5decreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c919b24c-47bb-4a17-968e-d5fd99777c1fcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 6f2243e0-7b2f-4a79-a7ac-c03a461f6e25created, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 91e21309-068f-4d91-82d5-596de0de0aa0created, hangar size:8
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 224158a1-dbdb-491a-bdc8-7378d9183d20created, hangar size:0
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 6aac5d5c-a45d-49d9-95c9-1104d3c5f1eccreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 187f228e-17b9-4ca2-9fc0-7670e8a209b5created, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 19412212-b957-4da5-b465-2fefdfa2d8b8created, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 751c41dd-f4ad-4359-91ef-3b31095caa5bcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 90d823ce-5e9b-4b5a-83ea-766bc47ba546created, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: bd62a4b3-1b32-40f7-814d-aa1075f116e6created, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a2b6e351-b2a3-4574-aeb5-9c3aaa87f41ccreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 99b6a907-4a81-4f49-84bc-92a95eedc7a5created, hangar size:0
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: abfc619a-ee42-4cdc-9662-9369d603d589created, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b2befa88-1bda-47f6-bfd4-df3ed849f2e3created, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: bf7ead4c-8298-4787-87c8-932f68470071created, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at airportManager.Manager.getPlaneById(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 144
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at airportManager.Manager.remove_plane(Plane p) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 99
+   at airportManager.Manager.removePlane(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 125
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 0ab09c83-cbc7-4ae8-a1b8-88be90ae8aa9created, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c6de9836-764f-4e14-afd3-4b419ff7259acreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 78392edf-09c3-4f57-909c-79ea3205228ccreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 70f1679b-7c7f-4fe6-aac8-1b051e7c1728created, hangar size:8
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 54a3d63e-bb73-4bcf-9e99-70056cf87098created, hangar size:0
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 12b3d627-c94f-41a8-b134-da957d692efacreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b47b7fc2-fce4-42f4-9ca9-1e4fdf8674d7created, hangar size:4
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 0c6d9d66-669e-48b9-a776-ae5421c0b163created, hangar size:1
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 9be8be6a-b534-4ba6-9bbe-1a410c70f6d4 added to hangar 0ab09c83-cbc7-4ae8-a1b8-88be90ae8aa9
+-------------------------------
+
+Log Entry : 00:22:07 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 9be8be6a-b534-4ba6-9bbe-1a410c70f6d4 removed to hangar 0ab09c83-cbc7-4ae8-a1b8-88be90ae8aa9
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d727a297-70c0-46d6-994c-a6031f1cae97created, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 65daf848-b7b8-46f3-a8ff-57347d4b512ccreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 47c1774b-8f97-40bb-b792-7001d60f71d9created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 05ad781d-53f7-485e-a792-85b4cea0c0c5created, hangar size:8
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 32f76633-d7c1-4506-bac1-4c134573123dcreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c33c13f9-fac8-493f-ab49-b1c5ce871793created, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8221ceb0-4a80-4669-ae30-40ce9171491fcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8cedc7b4-871a-4e59-849e-71adfd2b7c2acreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 78a83737-19cf-4b0b-819e-2fa182206dbc added to hangar 65daf848-b7b8-46f3-a8ff-57347d4b512c
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b91ad85c-46d7-45a2-bb0a-4d8ca82bb321created, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c75299dd-21b9-4846-9171-bd88c77c2f6dcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4af20e37-e790-47e6-bfa3-3933aeb88990created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: dddfaa22-4f9b-4d11-a795-90cda6ace04bcreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8a1502e6-1a66-4713-a248-5f62dff35f47created, hangar size:0
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: e510b31c-a135-4fc2-b4ad-6455f32a7b18created, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: cd99320c-d5fd-4141-940c-aaa8430b2507created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c67a869d-f55c-4e3b-9456-e3f6a53ad499created, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at airportManager.Manager.getPlaneById(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 144
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 53bc3970-b3c2-4cc2-b63f-88c793848a0dcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c92adbf3-94ab-4395-ae54-fe1af9bb1818created, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 94a7475e-2eb8-483b-818d-d22693d4c038created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 2b2aaff4-166d-4b15-b0d6-0fa97ef6f1e3created, hangar size:8
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 34ded93e-bf4a-4ede-a1f4-7d396e2bef6acreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1edd6684-e802-480e-b5c8-6ef3e3562607created, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: aea429be-cd30-4ba7-8a32-01b716a31882created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c3afe52a-eb45-4b7b-9dd1-6d9515e8b875created, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a6dce55f-65e7-44ac-acb9-0ca765cf36b1created, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ffbe41d5-6ac0-4ad8-8384-566611268943created, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 23932272-929f-402a-9a38-d2dba372feaccreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 78c7cf0e-92e4-4477-b3ec-b8331dae4973created, hangar size:8
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: eda61150-b6c2-4713-9317-db8a5dec6674created, hangar size:0
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: e582e12e-bce5-4499-8c27-691d7e237c85created, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 16ab4925-ac69-467b-a79c-2ea450bb61f1created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 20095497-4c32-49eb-890f-a266be2aab7fcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at airportManager.Manager.getPlaneById(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 144
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at airportManager.Manager.remove_plane(Plane p) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 99
+   at airportManager.Manager.removePlane(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 125
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d8d63eb7-784a-4d11-9a7f-0ecc5ffe24b1created, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4ccef95a-bf98-441a-a073-09b13a578192created, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fe22bd46-0a07-4d47-80de-4e3c46ba6306created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 2c39fbe2-dc21-47af-894b-ef11b3911beacreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8e8f7637-1917-4ae9-9711-63e077a8c7bfcreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8ce16393-129f-47c1-9454-b1b1410f99a5created, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 6023b7b0-c582-4269-8773-1887a9831469created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 83a2f5c2-9bc3-4e45-a224-e8a6585e0ba8created, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Plane f4d4e994-b943-45d4-af5b-5d848961b544 added to hangar d8d63eb7-784a-4d11-9a7f-0ecc5ffe24b1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Plane f4d4e994-b943-45d4-af5b-5d848961b544 removed to hangar d8d63eb7-784a-4d11-9a7f-0ecc5ffe24b1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 86e8bfa9-05da-443e-85f1-780f483dc7bccreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8181c300-4ecb-4d9d-a22b-2d686e49c0c5created, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1318691b-7bb1-4aa1-b0e2-5123fbfbf998created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 356bdb16-d973-49d8-9a6b-18e4f230570bcreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: dd9e978f-923a-44bb-9590-cebc9a050f34created, hangar size:0
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 40a946f1-bd86-4838-a75b-229e164bfdeecreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d09e517a-d9e3-4276-b493-2e47fe7a77a5created, hangar size:4
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fa364cf7-bd4d-4c25-905e-479ca9743d74created, hangar size:1
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 04ba4624-e9ce-4f01-b51d-476370e503a1 added to hangar 86e8bfa9-05da-443e-85f1-780f483dc7bc
+-------------------------------
+
+Log Entry : 00:26:46 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 04ba4624-e9ce-4f01-b51d-476370e503a1 removed to hangar 86e8bfa9-05da-443e-85f1-780f483dc7bc
+-------------------------------
+
+Log Entry : 00:50:58 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 453457c0-996d-48db-beba-cce243db52aecreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ecc594c9-19a6-447b-a9a8-7d9755303d98created, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c2180d63-bab8-47ae-8fb4-4f2656211408created, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b755ef0e-0998-428f-b005-32036b85160dcreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ef7f1a36-2b90-4e50-9381-1f3b486cd23ccreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: cfd0a990-3151-471c-90e6-9fd81c06749acreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 97aa140c-36ed-4b69-9d7c-383f07f9c17ecreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fb307f2c-8fba-4357-b833-03088cc175d4created, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Plane e462af69-40cf-4e71-859d-647209903ef3 added to hangar ecc594c9-19a6-447b-a9a8-7d9755303d98
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fae2e37f-3447-4479-a781-cfe4b58281e9created, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 25f3629c-2178-4e86-b524-ec7fd05cbc43created, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 817f164b-e85e-46e5-9bb5-d49c79fad5a2created, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a88fa3ec-5f50-4fbb-a1a6-50ffa23e30f3created, hangar size:8
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ddd3c4a4-9303-435c-bde7-a83aab7e2d85created, hangar size:0
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 12efa04e-4405-4da0-8401-ce237fcefc9ecreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 55cbdbaa-ac9c-4ca5-b3f9-84712be8fcb0created, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d16d1abb-b82c-448e-8f23-092501bcc7a6created, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at airportManager.Manager.getPlaneById(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 149
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 512680ec-fcec-40cb-9426-178b3c2c3593created, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 6c35c8ab-2d12-4563-94ab-78fccf41c1fbcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1ceca148-351c-4ef2-a494-3c35f3fb0564created, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 5ab9b81b-e0ae-4ade-b47e-e1c1cc2d2c54created, hangar size:8
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 53e8c4cb-9354-49f9-b9b9-1d6927f9e8b9created, hangar size:0
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 7424b39a-c4a3-4fb9-9738-a936c198e132created, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1c54c806-5081-462e-81c8-68c4730244cfcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 0e6fdd22-4f74-4fd5-9c05-721fe9d99659created, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 58232447-69e1-4a51-a622-15b59724b36fcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 90ba764f-98b2-46c5-9376-fc0f82d3d58acreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1a133fa1-d1a7-4fb8-9405-391bd57dca8fcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a5929692-5b68-4654-a061-359796adc20fcreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 01ad7fbf-a421-42e6-b67f-98a1d536c42fcreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: f422661f-0d67-4aa8-a542-d9d837417943created, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4d5bd715-762f-4586-8da4-417c95fd576acreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fc1c08b0-e959-477c-99f7-720c88d03536created, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at airportManager.Manager.getPlaneById(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 149
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at airportManager.Manager.remove_plane(Plane p) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 103
+   at airportManager.Manager.removePlane(String id) in C:\Users\דניאל\Documents\Visual Studio 2015\Projects\airportManager\airportManager\Manager.cs:line 129
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 6eec0563-c689-470b-a386-fd8b90480006created, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fc50ade3-e51a-492b-bc14-b65941195e13created, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ff5e049a-af6c-4946-8cc6-f9582a783691created, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 9467a40e-cff2-4e08-8953-eb1c6f77d152created, hangar size:8
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d9ae222c-a76d-42be-8bc7-3c27d910cb5acreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c5952914-a1a5-4b5f-98ea-45af9f48855acreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 83e2de3c-ddec-4e55-8720-c19028ecbef7created, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8efb37a9-ddf0-497f-bb1f-4261f1bbd2bccreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 183b2a67-515c-4e35-8237-b0815a18a2db added to hangar 6eec0563-c689-470b-a386-fd8b90480006
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 183b2a67-515c-4e35-8237-b0815a18a2db removed to hangar 6eec0563-c689-470b-a386-fd8b90480006
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 49372571-8010-4c6b-9bca-03c24f510f01created, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ef661862-5943-45b8-8340-10f21d5386afcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fec8a1c2-9f17-4ee5-9b85-d259c117a06ecreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 06bc4576-3e1a-4128-b1cb-5c413ba92a7bcreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4fd49fb8-83c2-4805-9801-9107cf0623c3created, hangar size:0
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ccb748e7-5cdb-4fe1-b5c9-378faeb7655bcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 3b8944e1-8875-4ef7-b470-4ce8d0fc925dcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 478d7f1c-ed00-4242-8003-097d5c761e50created, hangar size:1
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 83cac5ac-4002-4f04-90cd-49f04465625d added to hangar 49372571-8010-4c6b-9bca-03c24f510f01
+-------------------------------
+
+Log Entry : 00:50:59 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 83cac5ac-4002-4f04-90cd-49f04465625d removed to hangar 49372571-8010-4c6b-9bca-03c24f510f01
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 07886122-21e0-4dee-8a24-6ba3b4d0afc6created, hangar size:2
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 7c189c07-7f8a-4860-8369-eccddce70ac3created, hangar size:1
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1c845990-a324-47e8-ad7f-fd46405ca720created, hangar size:4
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 0828c9f3-a3ba-4223-b489-64c8161fbd64created, hangar size:8
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 9afacaad-3292-45ad-bd41-be2ea66fc3ddcreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 9e7b9193-89e2-4a56-8d5f-11d3b0c90cfccreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a83cfabb-8b38-47a1-832a-a1c35d981982created, hangar size:4
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b0a058c6-15bd-48c5-8bec-11141e7ed211created, hangar size:1
+-------------------------------
+
+Log Entry : 00:53:33 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 2d75a682-3c49-42c3-97f0-dff6b07eeb34 added to hangar 7c189c07-7f8a-4860-8369-eccddce70ac3
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 19520e88-7b14-4ab5-8487-7eeb02e84a75created, hangar size:2
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4c3d7b7a-f265-438a-afec-5befc7735dafcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ed5bc5fa-4f9f-4f26-b9af-3a98e3afa7d2created, hangar size:4
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: f874db6b-651a-4e1f-97ea-051e77d6c8e7created, hangar size:8
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 5bfa3e12-7314-4345-b55a-e86aff6cf3aecreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d4fcd4bf-6c8a-4173-b9e8-b31057ac0f8ccreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 25bcc2de-c2f2-4fc0-b288-ac06d76932bacreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d1c12554-1e04-48f2-852b-dcc987eadbf0created, hangar size:1
+-------------------------------
+
+Log Entry : 00:54:02 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 9c4d9e78-39f6-4286-b438-f95e69849716 added to hangar 4c3d7b7a-f265-438a-afec-5befc7735daf
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: efdbee1c-d5b0-4db4-849c-db0b10396784created, hangar size:2
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 59916afb-20ee-4e5c-802e-7437fc699c7dcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a7f0ebdc-88ab-4e5b-b2e9-85e63334deb5created, hangar size:4
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 92385490-cab7-41de-af86-070d919bf6a6created, hangar size:8
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 4d5a8761-82d2-48b5-b7c7-f60c0531bc06created, hangar size:0
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: bb3e099c-6298-47e8-902f-9f11dc3ecf2ccreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 14612ca6-b55c-4479-9fde-6da8e77780aacreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 78f0ee21-c47d-4982-9c97-d693e91ca689created, hangar size:1
+-------------------------------
+
+Log Entry : 00:54:46 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 37b01481-be54-47c4-af82-2ebfc99b4969 added to hangar 59916afb-20ee-4e5c-802e-7437fc699c7d
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: cccf7851-c85b-4805-a794-c9a5472045c1created, hangar size:2
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c1274cce-f88d-4287-87e1-eb854d660fa6created, hangar size:1
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a6f38df2-e51d-4e65-a928-01f251f19d52created, hangar size:4
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 37dc71c2-3e58-468d-9a3e-f772a5a1e3f2created, hangar size:8
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8c029300-85ea-4273-bd21-22ef63a79ce5created, hangar size:0
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c7fa81c6-0316-40dd-a2ed-de4be262bbcecreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: c8819ff7-173d-4cad-9ae7-95e09436ccd1created, hangar size:4
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 08770f5a-4024-4aa3-8367-dc34ce2e0839created, hangar size:1
+-------------------------------
+
+Log Entry : 00:55:57 יום רביעי 15 נובמבר 2017
+  :
+  :Plane f53bd1c4-c8fd-4694-822c-e3f13a85feab added to hangar c1274cce-f88d-4287-87e1-eb854d660fa6
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: e8ba1bf3-489e-403e-b32e-2848d5ba8b51created, hangar size:2
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 7040d26f-9696-43da-a876-bfd6933998f3created, hangar size:1
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8f98623d-ba62-49d3-8390-601ebeb522d3created, hangar size:4
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: f673b8f2-9aff-4659-ae34-81c62853d3d6created, hangar size:8
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b51a96c7-bc81-4bc1-8eef-e0219275019acreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 6a1ca6cc-4fe0-468d-8473-453b2f4becbfcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: f2491e86-d5fc-47b7-9f81-c8b130cb196fcreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: a6ceeaf8-0a7f-424d-9a75-fe3f86b73f78created, hangar size:1
+-------------------------------
+
+Log Entry : 00:56:13 יום רביעי 15 נובמבר 2017
+  :
+  :Plane c6a0d84b-b783-4291-a31b-f88f7a78662a added to hangar 7040d26f-9696-43da-a876-bfd6933998f3
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: cc07f146-e451-40f6-912e-18aae40f8028created, hangar size:2
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: f866abea-9527-4e45-b34c-e037a5fe207fcreated, hangar size:1
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: fd66abaa-6be3-4f14-9278-f999c330f795created, hangar size:4
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8241c422-9f7e-4858-80cd-16ff595ccddacreated, hangar size:8
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 1e9e830f-2262-4adb-bf18-6abed2712befcreated, hangar size:0
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b01ebab6-930f-498d-90d2-992812e25b1bcreated, hangar size:2
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 878974f1-a89e-4b47-b311-e1fadb4164eecreated, hangar size:4
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 482ead0d-4ea1-4383-bf98-ef4e1dcdd609created, hangar size:1
+-------------------------------
+
+Log Entry : 00:58:32 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 728f0959-99b0-4cc5-8cde-5ef13b254091 added to hangar f866abea-9527-4e45-b34c-e037a5fe207f
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :manager created
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 89ccd236-cd25-44d1-ae91-f04daeded955created, hangar size:2
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 989f37bb-a442-43ad-824d-eaf9b123aabacreated, hangar size:1
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: b4138b7c-9958-4544-8e98-eefe06becc4ccreated, hangar size:4
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: f840d137-a27c-4be0-807c-e225241188c5created, hangar size:8
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: d3bd3acd-e949-4f16-bcbf-47bc0b4a9721created, hangar size:0
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 8262932a-1fa0-46ab-b4bf-068e071a368bcreated, hangar size:2
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: ef6838f8-3de3-4458-8c34-2276ef13c834created, hangar size:4
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :Hangar id: 31c851bd-6b2b-4ab7-8e12-7ef8ce6dfab6created, hangar size:1
+-------------------------------
+
+Log Entry : 01:02:18 יום רביעי 15 נובמבר 2017
+  :
+  :Plane 38fdc333-55f3-43de-b022-a704cc8baa9e added to hangar 989f37bb-a442-43ad-824d-eaf9b123aaba
+-------------------------------

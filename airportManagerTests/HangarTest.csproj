@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EFA61358-FA59-478E-8C3B-9240FD116884}</ProjectGuid>
+    <ProjectGuid>{9B2A41B1-B451-4235-B0D2-0BED682AAF4C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AirportTest</RootNamespace>
-    <AssemblyName>AirportTest</AssemblyName>
+    <RootNamespace>airportManagerTests</RootNamespace>
+    <AssemblyName>airportManagerTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -16,6 +16,7 @@
     <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
     <IsCodedUITest>False</IsCodedUITest>
     <TestProjectType>UnitTest</TestProjectType>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -50,12 +51,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="AirporstTest.cs" />
+    <Compile Include="HangarTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\airportManager\airportManager.csproj">
-      <Project>{eccfa566-fa55-4033-b2ac-adcc952a5fea}</Project>
+      <Project>{ECCFA566-FA55-4033-B2AC-ADCC952A5FEA}</Project>
       <Name>airportManager</Name>
     </ProjectReference>
   </ItemGroup>
